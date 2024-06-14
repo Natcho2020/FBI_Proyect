@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "name": "desafio-fbi",
+  "version": "1.0.0",
+  "description": "Desafio_Fbi",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon --env-file=.env index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Natcho2020/Desafio_FBI.git"
+  },
+  "keywords": [
+    "JsonWebToken",
+    "NodeJs"
+  ],
+  "author": "Ignacio Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natcho2020/Desafio_FBI/issues"
+  },
+  "homepage": "https://github.com/Natcho2020/Desafio_FBI#readme"
+}
